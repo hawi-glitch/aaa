@@ -54,12 +54,12 @@
         }
     },
     "main": {
-        "token": "NjI1MzAxMjYzMTk3OTI5NDgz.Gi0HPG.kPt7mqy9C4PcmQ2qQ2X4xE69cE47flqbuWVwY8",
-        "userid": "625301263197929483",
-        "channelid": "1170322061739180042",
-        "owodmchannelid": "873595657540222997",
-        "gamblechannelid":"1170322061739180042",
-        "autoquestchannelid": "1170322061739180042"
+        "token": "",
+        "userid": "",
+        "channelid": "",
+        "owodmchannelid": "",
+        "gamblechannelid":"",
+        "autoquestchannelid": ""
     },
     "extra": {
         "token": "",
